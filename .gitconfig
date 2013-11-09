@@ -1,0 +1,14 @@
+[user]
+	name = Xiao
+	email = xiao@ifeelgoods.com
+[push]
+	default = simple
+[color]
+	status = auto
+	diff = auto
+[alias]
+	com = commit
+	co = checkout
+	br = branch
+[core]
+	editor = subl
