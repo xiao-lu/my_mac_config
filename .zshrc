@@ -55,6 +55,7 @@ alias vi='vim'
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 PATH=/usr/local/bin:$PATH
+PATH=$HOME/bin:$PATH
 PATH=/usr/local/Cellar/mysql55/5.5.30/bin:$PATH
 
 source /Users/xiaolu/.rvm/scripts/rvm
